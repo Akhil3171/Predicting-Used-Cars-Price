@@ -1,2 +1,5 @@
 # Predicting-Used-Cars-Price
-Using entity embeddings to convert categorical features into numerical features, building machine learning models on top of them.
+1. EDA, Feature Engineering
+2. Entity Embedding the categorical features
+3. Building Models
+4. Extracting Feature Importances.
